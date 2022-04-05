@@ -12,8 +12,7 @@ for i in list_num:
         z_flag = True
 
 if sum_num%3 == 0 and z_flag == True:
-    list_num.sort()
-    list_num.reverse()
+    list_num.sort(revrese=True)
     print(''.join(list_num))
 else:
     print(-1)
