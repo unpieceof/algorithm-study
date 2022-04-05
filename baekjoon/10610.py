@@ -1,6 +1,6 @@
 # 10610. 30
 # sort, reverse의 Type은 None임 -> list return이 아니라 just operate?
-# 가지치기 가능한 부분 확인 필요
+# 가지치기 가능한 부분 확인
 num = input()
 list_num = list(num)
 sum_num = 0
