@@ -1,4 +1,5 @@
 # 2588.곱셈
+# int로 input 받는 방법은 없나?
 a = input()
 b = input()
 list_b = list(map(int, b))
