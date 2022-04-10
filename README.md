@@ -14,7 +14,7 @@
 - [X] Unranked 탈출
 - [X] Class 1 달성
 - [ ] Bronze 5 완료(solved.ac 배경사진 바꾸기)
-- [ ] Class 1 은장
+- [X] Class 1 은장
 - [ ] Class 1 금장
 
 <br />
