@@ -11,9 +11,8 @@
 <br />
 ## 👩‍💻 Baekjoon
 와 큰일났다 알고리즘 다 까먹음
-- [ ] Silver 승급!
+- [X] Silver 승급!
 - [ ] Class 2 달성
-- [ ] Bronze 5 완료(solved.ac 배경사진 바꾸기)
 - [X] Class 1 은장
 
 <br />
