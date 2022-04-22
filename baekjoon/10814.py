@@ -6,4 +6,4 @@ for _ in range(num):
 
 members.sort(key=lambda x:int(x[0]))
 for member in members:
-    print(member[0], member[1])
+    print(member[0], member[1]) 
