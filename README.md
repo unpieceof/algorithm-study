@@ -11,9 +11,9 @@
 <br />
 ## 👩‍💻 Baekjoon
 와 큰일났다 알고리즘 다 까먹음
-- [X] Silver 승급!
-- [ ] Class 2 달성
-- [X] Class 1 은장
+- [] Silver 3 달성
+- [X] Class 2 달성
+- [] Class 2 은장
 
 <br />
 
