@@ -1,3 +1,5 @@
+# Array
+# 217. Contains Duplicate
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
         chk_dict = dict()
