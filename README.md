@@ -1,9 +1,7 @@
 # Algorithm Study 
 날이면 날마다 돌아오는 알고리즘 공부 시간
-<br />
 
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/sublimetext-FF9800?style=flat-square&logo=sublimetext&logoColor=white"/>
 
@@ -21,11 +19,11 @@
 <br />
 
 ## 🕊 Programmers
-스터디 했던 거 복습하기
+- 스터디 했던 거 복습하기
 
 <br />
 
 ## 🌟 LeetCode 
-[Data Structure 1](https://leetcode.com/study-plan/data-structure/?progress=81jvahh) 진행 중
+- [ ] [Data Structure 1](https://leetcode.com/study-plan/data-structure/?progress=81jvahh) 진행 중
 
 <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=unpieceof" width="400"/>
