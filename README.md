@@ -18,10 +18,6 @@
 
 <br />
 
-## 🕊 Programmers
-- 스터디 했던 거 복습하기
-
-<br />
 
 ## 🌟 LeetCode 
 - [ ] [Data Structure 1](https://leetcode.com/study-plan/data-structure/?progress=81jvahh) 진행 중
